@@ -1,0 +1,22 @@
+body{
+    background-image: url(/img/gray-calathea-lutea-leaf-patterned-background_53876-149681.webp);
+    background-size: contain;
+}
+.ss img{
+    height: 500px;
+}
+img{
+    max-width: 100%;
+}
+.Icons a{
+    text-decoration: none;
+    margin: 100px;
+    text-align: center;
+
+}
+.hhh{
+    margin-top: 150px;
+}
+
+
+
